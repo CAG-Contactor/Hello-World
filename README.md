@@ -1,2 +1,2 @@
 # Hello-World
-A spring-boot hello word project
+A spring-boot hello world project
